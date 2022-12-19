@@ -1,0 +1,160 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Constructor
+build_property.RootNamespace = Constructor
+build_property.ProjectDir = C:\Users\S7yka4\Desktop\Новая папка (2)\Constructor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\S7yka4\Desktop\Новая папка (2)\Constructor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/AssemblyContainer/AssemblyPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZW1ibHlDb250YWluZXJcQXNzZW1ibHlQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Assembly/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZW1ibHlcT3V0cHV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Case/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVxPdXRwdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Case/RedactPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVxSZWRhY3RQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Case/ShowMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVxTaG93TW9yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/CPUFan/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1BVRmFuXE91dHB1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/CPUFan/RedactPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1BVRmFuXFJlZGFjdFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/CPUFan/ShowMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1BVRmFuXFNob3dNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/CPU/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1BVXE91dHB1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/CPU/RedactPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1BVXFJlZGFjdFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/CPU/ShowMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1BVXFNob3dNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/DbChange/AddToDb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGJDaGFuZ2VcQWRkVG9EYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/DbChange/ErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGJDaGFuZ2VcRXJyb3JQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/DbChange/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGJDaGFuZ2VcT3V0cHV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Drive/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVcT3V0cHV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Drive/RedactPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVcUmVkYWN0UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Drive/ShowMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVcU2hvd01vcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Drive/TooMuchDrives.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVcVG9vTXVjaERyaXZlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/FAN/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRkFOXE91dHB1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/FAN/RedactPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRkFOXFJlZGFjdFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/FAN/ShowMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRkFOXFNob3dNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/FAN/TooMuchFANs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRkFOXFRvb011Y2hGQU5zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/FSP/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRlNQXE91dHB1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/FSP/RedactPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRlNQXFJlZGFjdFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/FSP/ShowMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRlNQXFNob3dNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/GPU/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR1BVXE91dHB1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/GPU/RedactPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR1BVXFJlZGFjdFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/GPU/ShowMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR1BVXFNob3dNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Main/MainPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxNYWluUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Motherboard/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90aGVyYm9hcmRcT3V0cHV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Motherboard/RedactPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90aGVyYm9hcmRcUmVkYWN0UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/Motherboard/ShowMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW90aGVyYm9hcmRcU2hvd01vcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/RAM/Output.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUkFNXE91dHB1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/RAM/RedactPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUkFNXFJlZGFjdFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/RAM/ShowMore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUkFNXFNob3dNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/S7yka4/Desktop/Новая папка (2)/Constructor/Views/RAM/TooMuchRAMs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUkFNXFRvb011Y2hSQU1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
