@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L1/1frUd0ElXZ7xZ95DXrlI2ha5POyPYtfyX9YO2tLzfmtK6leXNYuepR5D8fiatFWZVtW12ud8yGUdz9bm0qA==",
+  "dgSpecHash": "b3+ndsHiwUOosKLip8YQrVvBeloxm3kQOmJ58BLMDsVp+u3hr/ab5f7RhsnlxwE6oG47mRIii8PV5AnvSZpOVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S7yka4\\Desktop\\Новая папка (2)\\Constructor\\Constructor.csproj",
+  "projectFilePath": "C:\\Users\\S7yka4\\Desktop\\Constructor\\Constructor\\Constructor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S7yka4\\.nuget\\packages\\json\\1.0.1\\json.1.0.1.nupkg.sha512",
     "C:\\Users\\S7yka4\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",

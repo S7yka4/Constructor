@@ -4687,11 +4687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S7yka4\\Desktop\\Новая папка (2)\\Constructor\\Constructor.csproj",
+      "projectUniqueName": "C:\\Users\\S7yka4\\Desktop\\Constructor\\Constructor\\Constructor.csproj",
       "projectName": "Constructor",
-      "projectPath": "C:\\Users\\S7yka4\\Desktop\\Новая папка (2)\\Constructor\\Constructor.csproj",
+      "projectPath": "C:\\Users\\S7yka4\\Desktop\\Constructor\\Constructor\\Constructor.csproj",
       "packagesPath": "C:\\Users\\S7yka4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S7yka4\\Desktop\\Новая папка (2)\\Constructor\\obj\\",
+      "outputPath": "C:\\Users\\S7yka4\\Desktop\\Constructor\\Constructor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
