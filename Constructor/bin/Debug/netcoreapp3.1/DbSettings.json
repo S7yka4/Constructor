@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=sql7.freesqldatabase.com:3306;User=sql7585465;Password=fTKqDICWNv;Database=sql7585465;"
+  }
+}
