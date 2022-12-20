@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "server=ConstructorDb.mssql.somee.com;packet size=4096;user id=S7yka4_SQLLogin_1;pwd=8n3u4l6hsv;data source=ConstructorDb.mssql.somee.com;persist security info=False;initial catalog=ConstructorDb; TrustServerCertificate=True;"
+  }
+}
